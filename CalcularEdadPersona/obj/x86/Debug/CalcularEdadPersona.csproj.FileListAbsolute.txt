@@ -1,0 +1,9 @@
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\bin\Debug\CalcularEdadPersona.exe
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\bin\Debug\CalcularEdadPersona.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.Form1.resources
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.Properties.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.csproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.exe
+C:\Users\pc\AppData\Local\Temporary Projects\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\CalcularEdadPersona\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.exe
+C:\Users\pc\documents\visual studio 2010\Projects\CalcularEdadPersona\CalcularEdadPersona\obj\x86\Debug\CalcularEdadPersona.pdb
